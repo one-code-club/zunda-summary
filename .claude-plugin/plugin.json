@@ -1,0 +1,12 @@
+{
+  "name": "zunda-summary",
+  "version": "0.1.0",
+  "description": "Claude Codeの回答の要点をVOICEVOX(ずんだもん)の声で読み上げる音声要約コマンド /vsum・/vsum-now を追加します",
+  "author": {
+    "name": "One Code Club",
+    "url": "https://github.com/one-code-club"
+  },
+  "homepage": "https://github.com/one-code-club/zunda-summary",
+  "license": "MIT",
+  "keywords": ["voice", "tts", "voicevox", "zundamon", "japanese", "summary"]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "zunda-summary",
+  "owner": {
+    "name": "One Code Club",
+    "url": "https://github.com/one-code-club"
+  },
+  "plugins": [
+    {
+      "name": "zunda-summary",
+      "source": "./",
+      "description": "Claude Codeの回答の要点をVOICEVOX(ずんだもん)の声で読み上げる音声要約コマンド /vsum・/vsum-now を追加します"
+    }
+  ]
+}
